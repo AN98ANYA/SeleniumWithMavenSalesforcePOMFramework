@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-15T16:31:47 PDT" name="Default suite" finished-at="2023-03-15T16:32:52 PDT" duration-ms="64880">
+    <groups>
+    </groups>
+    <test started-at="2023-03-15T16:31:47 PDT" name="Default test" finished-at="2023-03-15T16:32:52 PDT" duration-ms="64880">
+      <class name="com.jan23.tests.SalesforceAutomation">
+        <test-method is-config="true" signature="setUpBeforeTest()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:31:47 PDT" name="setUpBeforeTest" finished-at="2023-03-15T16:31:48 PDT" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:31:48 PDT" name="setUpBeforeTestMethod" finished-at="2023-03-15T16:31:51 PDT" duration-ms="3258" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.jan23.tests.SalesforceAutomation.TC01_errorLoginSalesforceOne() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="TC01_errorLoginSalesforceOne()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:31:51 PDT" name="TC01_errorLoginSalesforceOne" finished-at="2023-03-15T16:31:56 PDT" duration-ms="5119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_errorLoginSalesforceOne -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:31:56 PDT" name="tearDownAfterTestMethod" finished-at="2023-03-15T16:31:57 PDT" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:31:57 PDT" name="setUpBeforeTestMethod" finished-at="2023-03-15T16:32:00 PDT" duration-ms="3008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.jan23.tests.SalesforceAutomation.TC02_successLoginSalesforce() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="TC02_successLoginSalesforce()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:00 PDT" name="TC02_successLoginSalesforce" finished-at="2023-03-15T16:32:10 PDT" duration-ms="10565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_successLoginSalesforce -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:10 PDT" name="tearDownAfterTestMethod" finished-at="2023-03-15T16:32:10 PDT" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:10 PDT" name="setUpBeforeTestMethod" finished-at="2023-03-15T16:32:12 PDT" duration-ms="2189" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.jan23.tests.SalesforceAutomation.TC03_rememberMeLoginSalesforce() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="TC03_rememberMeLoginSalesforce()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:12 PDT" name="TC03_rememberMeLoginSalesforce" finished-at="2023-03-15T16:32:23 PDT" duration-ms="10438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_rememberMeLoginSalesforce -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:23 PDT" name="tearDownAfterTestMethod" finished-at="2023-03-15T16:32:23 PDT" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:23 PDT" name="setUpBeforeTestMethod" finished-at="2023-03-15T16:32:25 PDT" duration-ms="2216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.jan23.tests.SalesforceAutomation.TC04_A_forgotYourPasswordLoginSalesforce() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="TC04_A_forgotYourPasswordLoginSalesforce()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:25 PDT" name="TC04_A_forgotYourPasswordLoginSalesforce" finished-at="2023-03-15T16:32:35 PDT" duration-ms="9986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_A_forgotYourPasswordLoginSalesforce -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:35 PDT" name="tearDownAfterTestMethod" finished-at="2023-03-15T16:32:35 PDT" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:35 PDT" name="setUpBeforeTestMethod" finished-at="2023-03-15T16:32:37 PDT" duration-ms="2193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.jan23.tests.SalesforceAutomation.TC04_B_errorLoginSalesforceTwo() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="TC04_B_errorLoginSalesforceTwo()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:37 PDT" name="TC04_B_errorLoginSalesforceTwo" finished-at="2023-03-15T16:32:43 PDT" duration-ms="5298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_B_errorLoginSalesforceTwo -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:43 PDT" name="tearDownAfterTestMethod" finished-at="2023-03-15T16:32:43 PDT" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:43 PDT" name="setUpBeforeTestMethod" finished-at="2023-03-15T16:32:45 PDT" duration-ms="2269" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.jan23.tests.SalesforceAutomation.TC05_User_Menu_Dropdown() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="TC05_User_Menu_Dropdown()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:45 PDT" name="TC05_User_Menu_Dropdown" finished-at="2023-03-15T16:32:52 PDT" duration-ms="6893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_User_Menu_Dropdown -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.jan23.tests.SalesforceAutomation@4c9f8c13]" started-at="2023-03-15T16:32:52 PDT" name="tearDownAfterTestMethod" finished-at="2023-03-15T16:32:52 PDT" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.jan23.tests.SalesforceAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
